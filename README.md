@@ -1,6 +1,8 @@
 # Task 2 Robotics and AI
 ### Install robot arm packages (Rviz)
 
+
+
 In task 2, we will install robot arm packages (Rviz) on Ubuntu Linux operating system on the terminal.
 
 ******
