@@ -6,9 +6,10 @@
 In task 2, we will install robot arm packages (Rviz) on Ubuntu Linux operating system on the terminal.
 
 ******
-```
+
 These are the commands of the installation that should be written on the Linux terminal (Noetic version):
-```
+
+
 ```
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 ```
